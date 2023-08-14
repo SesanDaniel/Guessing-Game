@@ -4,7 +4,7 @@ const checkButton = document.querySelector(".Check");
 console.log(checkButton);
 
 let number = Number(Math.trunc(Math.random() * 20 + 1));
-document.querySelector(".hidden-number").textContent = number;
+// document.querySelector(".hidden-number").textContent = number;
 
 let score = 20;
 
@@ -19,19 +19,19 @@ checkButton.addEventListener("click", (e) => {
     document.querySelector(".text").textContent = "🎈 Correct Number!";
     score++;
     document.querySelector(".score").textContent = score;
-    document.body.style.backgroundColor = 'green'
+    document.body.style.backgroundColor = "#12ad2b";
   } else if (userInput > number) {
     document.querySelector(".text").textContent = "📈 Your guess is too high";
-    score--
-    if(score < 0){
-        return
+    score--;
+    if (score < 0) {
+      return;
     }
     document.querySelector(".score").textContent = score;
   } else if (userInput < number) {
     document.querySelector(".text").textContent = "📉 Your guess is too low";
-    score--
-    if(score < 0){
-        return
+    score--;
+    if (score < 0) {
+      return;
     }
     document.querySelector(".score").textContent = score;
   }
