@@ -1,0 +1,38 @@
+"use strict";
+
+const checkButton = document.querySelector(".Check");
+console.log(checkButton);
+
+let number = Number(Math.trunc(Math.random() * 20 + 1));
+document.querySelector(".hidden-number").textContent = number;
+
+let score = 20;
+
+checkButton.addEventListener("click", (e) => {
+  e.preventDefault();
+  const userInput = Number(document.querySelector(".input").value);
+  console.log(userInput);
+
+  if (!userInput) {
+    console.log("input a number");
+  } else if (userInput === number) {
+    document.querySelector(".text").textContent = "🎈 Correct Number!";
+    score++;
+    document.querySelector(".score").textContent = score;
+    document.body.style.backgroundColor = 'green'
+  } else if (userInput > number) {
+    document.querySelector(".text").textContent = "📈 Your guess is too high";
+    score--
+    if(score < 0){
+        return
+    }
+    document.querySelector(".score").textContent = score;
+  } else if (userInput < number) {
+    document.querySelector(".text").textContent = "📉 Your guess is too low";
+    score--
+    if(score < 0){
+        return
+    }
+    document.querySelector(".score").textContent = score;
+  }
+});
