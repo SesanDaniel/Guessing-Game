@@ -1,20 +1,22 @@
-19
-68C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\package.json133345257239632869 0
-60C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist133365081600869816 1
-72C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\functionality.js133365075348972976 0
-62C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\images133365074166565892 1
-78C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.50cfff97.js133365075349951360 0
-66C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\index.html133365075895142250 0
-65C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\style.css133365081600628243 0
+21
+68C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\package.json133369957596296561 0
+60C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist133371971738662102 1
+72C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\functionality.js133370043879360074 0
+62C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\images133369973213883159 1
+78C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.50cfff97.js133371971738553523 0
+66C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\index.html133370040532596528 0
+65C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\style.css133370017316220962 0
 73C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\package-lock.json133345249879837037 0
 65C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\README.md133365067539473739 0
+80C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\images\mario-congrat.jpg133369973214847343 0
 73C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\images\mario.jpeg133365074167605667 0
-86C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\Guessing-Game.3464ddca.js133365074590064594 0
-90C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\Guessing-Game.3464ddca.js.map133365074590251028 0
-79C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.3a01df49.css133365081600831742 0
-83C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.3a01df49.css.map133365081600864735 0
+86C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\Guessing-Game.3464ddca.js133370042227482275 0
+90C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\Guessing-Game.3464ddca.js.map133370042227552302 0
+79C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.3a01df49.css133370042227282315 0
+83C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.3a01df49.css.map133370042227442281 0
 78C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.3d214d75.js133346148769102153 0
-71C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.html133365075867579008 0
+71C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.html133371971738662102 0
 82C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.3d214d75.js.map133346148769199900 0
-82C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.50cfff97.js.map133365075350016210 0
-80C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\mario.0feacc28.jpeg133365074590456668 0
+82C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\index.50cfff97.js.map133371971738662102 0
+87C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\mario-congrat.c80ff5ed.jpg133370042227442281 0
+80C:\Users\Lenovo\Desktop\Codes\JS Practice\Guessing-Game\dist\mario.0feacc28.jpeg133370042227292290 0

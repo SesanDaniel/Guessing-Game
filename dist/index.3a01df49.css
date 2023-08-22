@@ -116,4 +116,38 @@ body {
   left: 46%;
 }
 
+.modal {
+  z-index: 1;
+  text-align: center;
+  background-color: #222;
+  border-radius: 10px;
+  width: 70%;
+  height: 60vh;
+  padding: 2rem;
+  font-family: "Press Start 2P", sans-serif;
+  font-size: 1rem;
+  font-style: italic;
+  display: none;
+  position: fixed;
+  top: 10%;
+  left: 15%;
+  overflow: hidden;
+}
+
+.marioCongrats {
+  border-radius: 50%;
+  width: 15rem;
+  height: 15rem;
+}
+
+.mario-div {
+  width: 80%;
+  margin: 3rem auto 0;
+}
+
+.congrats-text {
+  width: 80%;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=index.3a01df49.css.map */
