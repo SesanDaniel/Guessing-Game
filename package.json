@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "parcel index.html"
+    "start": "parcel index.html"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jquery": "^3.7.0",
-    "parcel": "^2.9.3",
+    "parcel": "^2.12.0",
     "process": "^0.11.10",
     "react": "^18.2.0"
   }
